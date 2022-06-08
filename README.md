@@ -1,79 +1,74 @@
-# React & TailwindCSS Portfolio - With Dark Mode
+# Somali Responsive Portfolio 😀😊
+-------------------------------------------------------------------
+## Kani Waa website yar oo fudud oo aad ka dhigan karto CV  ✨✨✨✨
 
-A simple portfolio starter theme built with React and TailwindCSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/reaoman/vuejs-tailwindcss-portfolio).
+# Somali Portoflio webPage 
 
-![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8c80.png)
+<!-- ![just-a-web-portfolio](/saed.jpg=20x)  -->
 
-##  URL
+### 🙋‍♂️ Ina Mari --
 
-[https://react-tailwindcss-portfolio.netlify.app](https://reacttailwindcss-portfolio.netlify.app)
+# Qaybaha uu Kala baxayo Site-kani 〽〽〽
 
-## Features
+- Home oo ah interface-ka ugu horeeya ee soo booqduhu arkayo 
+- About - Ku saabsan
+- Skills - Xirfadaha  aad leedahahy
+- Work - Shaqooyinka 
+- Contact - qaybta lagala so xidhiidayo 
+- blog - hadii aad qorto bugukada IWM.
 
--   [React](https://reactjs.org) with [React Router v6](https://reactrouter.com)
--   [Tailwind CSS v2](https://tailwindcss.com)
--   Context API For State Management
--   Custom Hooks
--   Framer Motion transitions & animations
--   Reusable components
--   Dark mode
--   Projects filter by category
--   Projects filter by search
--   Smooth scroll
--   Counter
--   Dynamic forms
--   Back to top button
--   Download file button
--   Simple and responsive design
+# Sidee u istimcalaya ama u bilabaysaa template-kan  🎁
 
-## Installation
+- Soo Booqo Github Page-kayga ama ku dhufo link-gan [SomaliPortfolioPage](https://github.com/saedMuhamed/SomaliPortfolioPage).
+- Waxaad taabata buttonk cagaaran ee ay ku qoran **CODE**. 
+- Hadii aad u baahntahy URl sida HTTPS ama SSH,  Qaado link-ga Kuna Paste-garee Terminal adigo Ku qoroya - `git clone URL`
+- Hadii kale Taabo **Download Zip File** 
 
-1. ##### Make sure you have Node JS installed. If you don't have it:
+# Folder-da Uu leeyahay Template-kani 
+### Assets 
+  - Images 
+  - Css 
+  - Pdfs
+  - Javasript
+### Index.html 
 
--   [Download it from nodejs.org](https://nodejs.org)
--   [Install it using NVM ](https://github.com/nvm-sh/nvm)
--   If you're on Mac, Homebrew is a good option too:
+# Side uga dhigaysa Online ama u deploy-gareenaysa
 
-```
-brew install node
-```
+- Kolka aad ku guulaysato talaabooyinkaa hore ee aad martey iyo loo setup-greenayaba, waxaad u baahantahay inaad websitekaaga ka dhigto online!
+- Waxaad isticmali karta [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) kaaso ah ka ugu fudud.
+  -Si aad u deploy greeso websitka waxaad mari doonta labadan hab ee fudud. Markla ugu horeesa waxaad u baahntahay inaad sameeso magaca `<your-github-username>.github.io`. Isku day inaanad ka dhigin magaca kale.
+- hadda, waxaad u baahntahay inaad sameeso production build ama inaad deploy-gareeso website-ka.
 
-2. ##### Clone the repo:
+**Habka Koobaad 1**
 
-```
-git clone https://github.com/realstoman/react-tailwindcss-portfolio.git
-```
+- Run `npm run build` si aad u sameeso folder ah production build.
+- Waxaad ku dhex qorta Folder-ka Build, `git init` Kuna push-garee code-ka aad generat-gareesey branch `master` ee repositorigaaga cusub. waakuka 🤷‍♀️ . Done.
+  You may need to `git init` and force push at every new build.
 
-3. ##### Open the project folder:
+**Habka labaad 2**
 
-```
-cd react-tailwindcss-portfolio
-```
+- Run `npm run deploy` si aad u buil-gareeso, sido kalena sameese branch aad u bixisey `gh-pages`. Kuna push files-ka `build` branch-ka.
+- Talabada u danbeesa waa in aad furto ama enable-greeso page-ka `Github Pages` adigo tagaya qaybta settings `gh-pages` branch.
 
-4. ##### Install packages and dependencies:
+Hadda, Websitk-kaagu waa diyaar, waxaand kaso booqan karta website-kan `<your-github-username>.github.io`.
 
-```
-yarn
-```
+# Technolojiyadaa aan isticmaley 🛠️
 
-4. NOTE: If you don't have yarn installed, you can install it globally using npm:
+- [React](https://reactjs.org/)
+- [graphql](https://graphql.org/)
+- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
+- [baseui](https://github.com/uber/baseweb)
+- [react-reveal](https://www.react-reveal.com/)
+- [styled-components](https://styled-components.com/)
 
-```
-npm install --global yarn
-```
+# Sawirrada 🍥
 
-5. ##### Start a local dev server at `http://localhost:3000`:
+- [UnDraw](https://undraw.co/illustrations)
 
-```
-yarn start
-```
+# Contacts 📞
 
-## Notes
+- [Github](https://github.com/saedMuhamed)
+- [Twitter](https://twitter.com/saedmuhamed3)
+- [Faceook](https://www.facebook.com/sxabo)
 
--   Always run `yarn install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/c/StomanStudio). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
+
