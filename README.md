@@ -4,9 +4,9 @@ A simple portfolio starter theme built with React and TailwindCSS. This is the R
 
 ![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8c80.png)
 
-## Demo URL
+##  URL
 
-[https://react-tailwindcss-portfolio.netlify.app](https://react-tailwindcss-portfolio.netlify.app)
+[https://react-tailwindcss-portfolio.netlify.app](https://reacttailwindcss-portfolio.netlify.app)
 
 ## Features
 
